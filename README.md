@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+THIS IS AN OPENSOURCE PROJECT, REQUEST CONTRIBUTORS
 
 ## What it does
 
-FEATURES PLACEHOLDER
+An awesome application is to be cooking in the arena, request you to be a part of it.
 
 ## Getting started
 
