@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+HEllo all Uou can contribute to this project and be a part of a change.
+Please Complete the Tecks and upload.
